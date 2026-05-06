@@ -60,3 +60,7 @@ To run the application on your local machine, follow these steps:
 - **Frameworks & Libraries:** React 19, Vite, Tailwind CSS, Recharts, Framer Motion, PapaParse, Google GenAI SDK.
 - **External Services:** Google Gemini API (for Smart Insights).
 - **Browser:** Any modern web browser (Chrome, Firefox, Safari, Edge).
+
+## Disclaimer
+
+- **Disclaimer** This tool is provided "as is" for informational purposes only. Users are responsible for validating all results and data accuracy. We assume no responsibility for the data added or the insights generated. Your data is processed locally and is not stored on any server.
