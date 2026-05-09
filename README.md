@@ -64,3 +64,16 @@ To run the application on your local machine, follow these steps:
 ## Disclaimer
 
 - **Disclaimer** This tool is provided "as is" for informational purposes only. Users are responsible for validating all results and data accuracy. We assume no responsibility for the data added or the insights generated. Your data is processed locally and is not stored on any server.
+
+## Sample Images With Sample Data
+
+!(images/Insight HR1.jpg)
+
+!(images/Insight HR2.jpg)
+
+!(images/Insight HR3.jpg)
+
+!(images/Insight HR4.jpg)
+
+!(images/Insight AI Insights.jpg)
+s
