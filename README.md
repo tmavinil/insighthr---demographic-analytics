@@ -67,13 +67,12 @@ To run the application on your local machine, follow these steps:
 
 ## Sample Images With Sample Data
 
-!(images/Insight HR1.jpg)
+![Insight HR 1](src/images/Insight%20HR1.jpg)
 
-!(images/Insight HR2.jpg)
+![Insight HR 2](src/images/Insight%20HR2.jpg)
 
-!(images/Insight HR3.jpg)
+![Insight HR 3](src/images/Insight%20HR3.jpg)
 
-!(images/Insight HR4.jpg)
+![Insight HR 4](src/images/Insight%20HR4.jpg)
 
-!(images/Insight AI Insights.jpg)
-s
+![InsightHR AI Insights](src/images/InsightHR%20AI%20Insights.jpg)
