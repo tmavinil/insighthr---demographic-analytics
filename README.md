@@ -15,7 +15,7 @@ InsightHR Demographic Analytics is a powerful, React-based dashboard application
 
 You can access and run the application online without any local installation:
 
-**View the app here:**
+**View the app here: **
 
 Once online:
 1. Upload your CSV file containing employee data or click "Try Sample Data".
